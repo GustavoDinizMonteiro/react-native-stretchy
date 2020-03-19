@@ -15,7 +15,6 @@ or `npm`
 ```bash
 npm install react-native-stretchy --save
 ```
-**NOTE**: Link [react-native-linear-gradient](https://github.com/react-native-community/react-native-linear-gradient) to your project.
 
 ## Basic Usage
 
